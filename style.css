@@ -1,0 +1,24 @@
+body{background-color: black;}
+h1{color: firebrick ;font-style: oblique;}
+h5{color: firebrick;font-style: oblique;}
+p{color: aliceblue;}
+link{color: red;}
+nav{background-color: rgba(173, 6, 6, 0.678);}
+ul{color: blanchedalmond;}
+li{color: blanchedalmond;}
+a{color: rgb(90, 90, 216);}
+label{color:aliceblue;}
+nav{height: 120px;width:100%;}
+nav ul {padding: 30px;
+display: flex;
+justify-content: center;
+list-style:none;}
+nav ul li {padding: 30px 20px;
+}
+nav ul li a{text-decoration: none;
+font-size: 18px;
+font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif ;box-sizing: content-box;}
+nav ul li :hover{background-color: goldenrod;
+transition: 0,9s;}
+img{padding:30px;margin: 30px;}
+footer{font: x-small c;}
